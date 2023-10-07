@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CiceroCaesar ,Liu Jiyu, tongji university
+- 👋 Hi, I’m @CiceroCaesar
 - 👀 I’m interested in C++ and game
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on game
